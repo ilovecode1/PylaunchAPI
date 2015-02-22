@@ -71,4 +71,12 @@ False
 #
 Looks Like the user has a 32 bit!
 
-#We Are Done! :)
+#Look what Pylaunch API is doing!
+
+##Pyfancy
+
+Pyfancy ( https://github.com/ilovecode1/pyfancy ) is using pylaunch API to make pyfancy smarter. Pyfancy uses 
+`
+idleorcommandline()
+`
+to figure out if it should disable pyfancy or not.
