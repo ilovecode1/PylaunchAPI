@@ -75,6 +75,8 @@ Looks Like the user has a 32 bit!
 
 ##Pyfancy
 
+Diggo ( https://github.com/ilovecode1/diggo ) is why Pylaunch API was made! It uses Pylaunch API to set it self up!
+
 Pyfancy ( https://github.com/ilovecode1/pyfancy ) is using pylaunch API to make pyfancy smarter. Pyfancy uses 
 `
 idleorcommandline()
